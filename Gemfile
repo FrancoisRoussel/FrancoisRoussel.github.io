@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
 
+gem 'wdm', '>= 0.1.0'
 gem 'github-pages'
 gem 'rouge'
 gem 'jekyll'
