@@ -12,15 +12,14 @@ tag:
 ![jekyll Image](https://people.clas.ufl.edu/peterbubenik/files/delaunay.png)
 {: .image-pull-right}
 
-<center>An illustration of what's persistent homology</center>
+<center><FONT COLOR=white>An illustration of what's persistent homology</center>
 
 ## About TDA :
 
-<u><b>Topological Data Analysis</b></u> is a very recent field in data science. 
+<u><b><FONT COLOR=white>Topological Data Analysis</b></u> is a very recent field in data science.
 
-First researches began in 2000 and are mostly directed by an <b>INRIA</b> researcher <a href="https://geometrica.saclay.inria.fr/team/Fred.Chazal/">Frédéric Chazal.</a>
+<FONT COLOR=white>First researches began in 2000 and are mostly directed by an <b>INRIA</b> researcher <a href="https://geometrica.saclay.inria.fr/team/Fred.Chazal/">Frédéric Chazal.</a>
 
-It consists in deducing with several math concept some information about <u>the shape of our data</u>.
-
-Please take a look at my work:
+<FONT COLOR=white>It consists in deducing with several math concept some information about <u>the shape of our data</u>.
+<FONT COLOR=white>Please take a look at my work:
 <a href="../assets/img/pdf/TER.pdf" download>Topological Data Analysis Project Research - L3 MIASHS</a>

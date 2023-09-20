@@ -1,7 +1,7 @@
 # Site
-title:          My First WebSite
-bio:            'Welcome!'
-description:    "Welcome to my first website!"
+title:          François Roussel
+bio:            'Welcome to my website!'
+description:    "Hi! Feel free to look at who I am and the things I've done so far!"
 picture:        'assets/img/profile.png'
 locale:         en_US
 url:            https://FrancoisRoussel.github.io
@@ -24,8 +24,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: username
-facebook: username
+#twitter: username
+facebook: profile.php?id=100010720179272
 #google:
   #plus: #username
   #analytics:
@@ -33,18 +33,18 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+github: FrancoisRoussel
+#stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#linkedin: username
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
+#instagram: username
+#lastfm: username
+#tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
-youtube: username
+#youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
