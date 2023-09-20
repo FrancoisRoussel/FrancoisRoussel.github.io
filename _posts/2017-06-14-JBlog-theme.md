@@ -16,7 +16,7 @@ tag:
 
 ## <FONT COLOR=white>About TDA :
 
-<u><b><FONT COLOR=white>Topological Data Analysis</b></u> is a very recent field in data science.
+<FONT COLOR=white><u><b>Topological Data Analysis</b></u> is a very recent field in data science.
 
 <FONT COLOR=white>First researches began in 2000 and are mostly directed by an <b>INRIA</b> researcher <a href="https://geometrica.saclay.inria.fr/team/Fred.Chazal/">Frédéric Chazal.</a>
 
