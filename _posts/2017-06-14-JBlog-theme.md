@@ -12,7 +12,7 @@ tag:
 ![jekyll Image](https://people.clas.ufl.edu/peterbubenik/files/delaunay.png)
 {: .image-pull-right}
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
+<center><b>An illustration of what's persistent homology</center>
 
 ## About TDA :
 

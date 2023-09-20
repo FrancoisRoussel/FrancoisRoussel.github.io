@@ -51,8 +51,8 @@ $turko: #1abc9c;
 $purple: #9b59b6;
 $dark-blue: #34495e;
 
-$main-color: $white;
-$background-color: $blue;
+$main-color: $dark-blue;
+$background-color: $white;
 $thrid-color: rgba(52, 152, 219, 0.8);
 ```
 
