@@ -12,9 +12,9 @@ tag:
 ![jekyll Image](https://people.clas.ufl.edu/peterbubenik/files/delaunay.png)
 {: .image-pull-right}
 
-<center><FONT COLOR=white>An illustration of what's persistent homology</center>
+<center>An illustration of what's persistent homology</center>
 
-## About TDA :
+## <FONT COLOR=white>About TDA :
 
 <u><b><FONT COLOR=white>Topological Data Analysis</b></u> is a very recent field in data science.
 
