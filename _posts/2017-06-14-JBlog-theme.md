@@ -12,7 +12,7 @@ tag:
 ![jekyll Image](https://people.clas.ufl.edu/peterbubenik/files/delaunay.png)
 {: .image-pull-right}
 
-<center><b>An illustration of what's persistent homology</center>
+<center>An illustration of what's persistent homology</center>
 
 ## About TDA :
 
@@ -23,4 +23,4 @@ First researches began in 2000 and are mostly directed by an <b>INRIA</b> resear
 It consists in deducing with several math concept some information about <u>the shape of our data</u>.
 
 Please take a look at my work:
-<a href="../assets/img/pdf/TER_François_ROUSSEL_L3_MIASHS.pdf" download>Topological Data Analysis Project Research - L3 MIASHS</a>
+<a href="../assets/img/pdf/TER.pdf" download>Topological Data Analysis Project Research - L3 MIASHS</a>

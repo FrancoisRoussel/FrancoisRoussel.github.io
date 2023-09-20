@@ -53,7 +53,7 @@ $dark-blue: #34495e;
 
 $main-color: $dark-blue;
 $background-color: $white;
-$thrid-color: rgba(52, 152, 219, 0.8);
+$thrid-color: $white;
 ```
 
 $main-color is panels background color.
