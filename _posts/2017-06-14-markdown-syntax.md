@@ -13,4 +13,4 @@ tag:
 
 ## <FONT COLOR=white>My Business card:
 
-<FONT COLOR=white>If you need to contact me, feel free to use the <a href="https://github.com/FrancoisRoussel/Business-Card/releases/tag/v4.0">following card.</a> 
+<FONT COLOR=white>If you need to contact me, feel free to use the <a href="https://github.com/FrancoisRoussel/Business-Card/releases/latest/download/card.pdf">following card.</a> 
