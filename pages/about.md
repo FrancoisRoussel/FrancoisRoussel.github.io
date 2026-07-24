@@ -1,6 +1,6 @@
 ---
-title: "À propos"
+title: "About me"
 permalink: /about/
 ---
 
-# TEST
+# About me
