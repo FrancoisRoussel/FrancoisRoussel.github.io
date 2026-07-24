@@ -1,5 +1,15 @@
 main:
-  - title: "Accueil"
-    url: /
-  - title: "À propos"
-    url: /about/
+  - title: "Research interest"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Personnal projects"
+    url: /projects/
+
+  - title: "Resume"
+    url: /resume/
