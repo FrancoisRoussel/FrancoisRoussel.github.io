@@ -1,5 +1,15 @@
-title: François Roussel
-description: My personnal website
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
 
-markdown: kramdown
+title: "François Roussel"
+name: "François Roussel"
+description: "About me"
+
+url: "https://francoisroussel.github.io/"
+baseurl: ""
+
+locale: "fr-FR"
+
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "dark"
