@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Resume"
+title: "Up-to-date Resume"
 permalink: /resume/
 ---
 
-# Up-to-date resume
+Here is an up-to-date [resume](/assets/pdf/CV.pdf)
