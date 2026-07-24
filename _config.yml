@@ -4,6 +4,11 @@ title: "François Roussel"
 name: "François Roussel"
 description: "About me"
 
+author:
+  name: "François Roussel"
+  avatar: "/assets/images/photo.jpg"
+  bio: "PhD Student"
+
 url: "https://francoisroussel.github.io/"
 baseurl: ""
 
