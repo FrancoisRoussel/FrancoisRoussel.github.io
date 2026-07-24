@@ -16,6 +16,7 @@ locale: "fr-FR"
 
 plugins:
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 minimal_mistakes_skin: "contrast"
 
