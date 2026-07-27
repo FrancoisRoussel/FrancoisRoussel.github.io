@@ -4,92 +4,27 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-<div class="timeline">
+<h2 class="teaching-year">2027</h2>
 
-  <div class="timeline-row">
+<div class="teaching-item">
+  <div class="teaching-title">Linear Regression</div>
+  <div class="teaching-meta"><i>Polytech Lille</i> · 10h · L3 students</div>
+  <div class="teaching-desc">TBD</div>
+</div>
 
-    <div class="timeline-year">
-      2027
-    </div>
+<h2 class="teaching-year">2026</h2>
 
-    <div class="timeline-content">
+<div class="teaching-item">
+  <div class="teaching-title">Signal Processing</div>
+  <div class="teaching-meta"><i>Ecole Centrale de Lille</i> · 16h · L3 students</div>
+</div>
 
-      <div class="timeline-card">
-        <div class="timeline-title">
-          Linear Regression
-        </div>
+<div class="teaching-item">
+  <div class="teaching-title">Advanced Algorithms and Programming</div>
+  <div class="teaching-meta"><i>Ecole Centrale de Lille</i> · 22h · L3 students</div>
+</div>
 
-        <div class="timeline-subtitle">
-          <i>Polytech Lille</i>, 10h, L3 students
-        </div>
-
-        <div class="timeline-description">
-          TBD
-        </div>
-      </div>
-
-    </div>
-
-  </div>
-
-  <div class="timeline-row">
-
-    <div class="timeline-year">
-      2026
-    </div>
-
-    <div class="timeline-content">
-
-      <div class="timeline-card">
-
-        <div class="timeline-title">
-          Signal Processing
-        </div>
-
-        <div class="timeline-subtitle">
-          <i>Ecole Centrale de Lille</i>, 16h, L3 students
-        </div>
-
-        <div class="timeline-description">
-          TBD
-        </div>
-
-      </div>
-
-      <div class="timeline-card">
-
-        <div class="timeline-title">
-          Advanced Algorithms and Programming
-        </div>
-
-        <div class="timeline-subtitle">
-          <i>Ecole Centrale de Lille</i>, 22h, L3 students
-        </div>
-
-        <div class="timeline-description">
-          TBD
-        </div>
-
-      </div>
-
-      <div class="timeline-card">
-
-        <div class="timeline-title">
-          Thematic Studies
-        </div>
-
-        <div class="timeline-subtitle">
-          <i>University of Lille</i>, 15h, L1 students
-        </div>
-
-        <div class="timeline-description">
-          TBD
-        </div>
-
-      </div>
-
-    </div>
-
-  </div>
-
+<div class="teaching-item">
+  <div class="teaching-title">Thematic Studies</div>
+  <div class="teaching-meta"><i>University of Lille</i> · 15h · L1 students</div>
 </div>
