@@ -12,7 +12,7 @@ blablablablablablablablablablablablablablablablablablablablablablablablablablabl
 
 ---
 
-<img src="{{ '/assets/images/research.png' | relative_url }}" 
+<img src="{{ '/assets/images/Inverse.png' | relative_url }}" 
      alt="Phi"
      style="width:100%; max-width:800px;">
 
@@ -22,6 +22,6 @@ blablablablablablablablablablablablablablablablablablablablablablablablablablabl
 
 ---
 
-<img src="{{ '/assets/images/lab-photo.png' | relative_url }}" 
+<img src="{{ '/assets/images/Intro.png' | relative_url }}" 
      alt="Logos"
      style="width:100%; max-width:800px;">
