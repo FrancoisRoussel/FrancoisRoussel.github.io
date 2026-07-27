@@ -2,6 +2,7 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
+classes: wide
 ---
 
 <h2 class="teaching-year">2027</h2>
@@ -29,5 +30,5 @@ permalink: /teaching/
 <div class="teaching-item">
   <div class="teaching-title">Thematic Studies</div>
   <div class="teaching-meta"><i>University of Lille</i> · 15h · L1 students</div>
-  <div class="teaching-desc">Tight bounds, density of $\mathbb{Q}$ in $\mathbb{R}$, Pigeonhole principle, arithmetico-geometric sequences, powers of two. </div>
+  <div class="teaching-desc">Tight bounds, density of ℚ in ℝ, Pigeonhole principle, arithmetico-geometric sequences, powers of two. </div>
 </div>
