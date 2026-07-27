@@ -7,7 +7,7 @@ description: "About me"
 author:
   name: "François Roussel"
   avatar: "/assets/images/smiley.png"
-  bio: "PhD Student"
+  bio: "1st year PhD Student working at the interface of signal processing and cosmology."
 
 url: "https://francoisroussel.github.io/"
 baseurl: ""
