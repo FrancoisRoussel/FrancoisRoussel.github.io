@@ -6,17 +6,30 @@ description: "About me"
 
 author:
   name: "François Roussel"
-  avatar: "/assets/images/smiley.png"
-  bio: "1st year PhD Student working at the interface of signal processing and cosmology."
+  bio: "First-year PhD Student working at the interface of signal processing and cosmology."
+
+  email: "francois.roussel@univ-lille.fr"
+
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/FrancoisRoussel"
+
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0009-0009-9224-9009"
 
 url: "https://francoisroussel.github.io/"
 baseurl: ""
 
 locale: "fr-FR"
 
+mathjax: true  
+
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 minimal_mistakes_skin: "contrast"
 

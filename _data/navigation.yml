@@ -1,7 +1,4 @@
 main:
-  - title: "Research interest"
-    url: /research/
-
   - title: "Publications"
     url: /publications/
 
